@@ -123,5 +123,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 GRAPHENE = {
-    'SCHEMA': 'shorty.schema.schema',
+    'SCHEMA': 'magick_url.schema.schema',
 }
